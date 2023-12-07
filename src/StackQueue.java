@@ -1,2 +1,3 @@
-public class StackQueue {
+public class StackQueue<T> {
+
 }
